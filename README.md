@@ -8,3 +8,6 @@ Salesforce code to connect to MailGun API.
  
  Named Credentials
   
+ Apex Class
+ 
+ Apex Trigger
